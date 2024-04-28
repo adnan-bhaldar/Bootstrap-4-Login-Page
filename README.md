@@ -15,10 +15,10 @@ My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it'
 Let's make it easy! Just download this template, use it on your project.
 
 # Demo
-- [Login](https://nauvalazhar.github.io/Bootstrap-4-Login-Page/index.html)
-- [Register](https://nauvalazhar.github.io/Bootstrap-4-Login-Page/register.html)
-- [Forgot Password](https://nauvalazhar.github.io/Bootstrap-4-Login-Page/forgot.html)
-- [Reset Password](https://nauvalazhar.github.io/Bootstrap-4-Login-Page/reset.html)
+- [Login](https://adnan-bhaldar.github.io/Bootstrap-4-Login-Page)
+- [Register](https://adnan-bhaldar.github.io/Bootstrap-4-Login-Page/register.html)
+- [Forgot Password](https://adnan-bhaldar.github.io/Bootstrap-4-Login-Page/forgot.html)
+- [Reset Password](https://adnan-bhaldar.github.io/Bootstrap-4-Login-Page/reset.html)
 
 # Features
 - Bootstrap 4.1.3
