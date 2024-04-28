@@ -1,0 +1,75 @@
+html,body {
+	height: 100%;
+}
+
+body.style-page {
+	background-color: #f7f9fb;
+	font-size: 14px;
+}
+
+.style-page .brand {
+	width: 90px;
+	height: 90px;
+	overflow: hidden;
+	border-radius: 50%;
+	margin: 40px auto;
+	box-shadow: 0 4px 8px rgba(0,0,0,.05);
+	position: relative;
+	z-index: 1;
+}
+
+.style-page .brand img {
+	width: 100%;
+}
+
+.style-page .card-wrapper {
+	width: 400px;
+}
+
+.style-page .card {
+	border-color: transparent;
+	box-shadow: 0 4px 8px rgba(0,0,0,.05);
+}
+
+.style-page .card.fat {
+	padding: 10px;
+}
+
+.style-page .card .card-title {
+	margin-bottom: 30px;
+}
+
+.style-page .form-control {
+	border-width: 2.3px;
+}
+
+.style-page .form-group label {
+	width: 100%;
+}
+
+.style-page .btn.btn-block {
+	padding: 12px 10px;
+}
+
+.style-page .footer {
+	margin: 40px 0;
+	color: #888;
+	text-align: center;
+}
+
+@media screen and (max-width: 425px) {
+	.style-page .card-wrapper {
+		width: 90%;
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.style-page .card.fat {
+		padding: 0;
+	}
+
+	.style-page .card.fat .card-body {
+		padding: 15px;
+	}
+}
