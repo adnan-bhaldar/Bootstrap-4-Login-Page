@@ -9,7 +9,7 @@ Need Bootstrap 5 version? [Available here!](https://github.com/adnan-bhaldar/boo
 
 My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
 
-![Preview](./readme-images/desktop.jpg "Desktop Demo")
+![Preview](./readme-images/Desktop.png "Desktop Demo")
 
 # Installation
 Let's make it easy! Just download this template, use it on your project.
