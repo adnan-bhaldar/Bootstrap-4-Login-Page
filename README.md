@@ -56,7 +56,7 @@ Contribution are always welcome and recommended! Here is how:
 
 
 # Buy me a Coffee
-Support me : https://buymeacoffee.com/adnan_bhaldar
+Support me : https://www.buymeacoffee.com/Adnan_Bhaldar
 
 # License
 [MIT License](http://opensource.org/licenses/MIT)
