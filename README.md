@@ -1,5 +1,3 @@
-Need Bootstrap 5 version? [Available here!](https://github.com/adnan-bhaldar/bootstrap-5-login-page/)
-
 # Bootstrap 4 Login Page Template
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/Organic-Ecommerce)
